@@ -6,7 +6,7 @@ SmartPhone-Scouter is a full-stack AI-powered smartphone price tracker, price hi
 
 ## ✨ Core Features
 
-1. **🇮🇳 Indian Rupee (₹) Market Pricing & Retailer Comparison**:
+1. ** Indian Rupee (₹) Market Pricing & Retailer Comparison**:
    - Compares live prices across **Amazon India (`Amazon.in`)**, **Flipkart**, **Croma**, **Reliance Digital**, **Pai International**, **Vijay Sales**, and **Official Brand Stores** (Apple India, Samsung India, OnePlus India, Mi India).
    - Highlights the **⚡ Lowest Price Deal** vendor for every smartphone model.
 
