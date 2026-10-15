@@ -23,7 +23,7 @@ SmartPhone-Scouter is a full-stack AI-powered smartphone price tracker, price hi
    - Polynomial regression model predicting 30-day, 60-day, and 90-day price trajectories.
    - Calculates a **Price Hike Risk Index (%)** and recommends strategic buying advice (*"BUY NOW BEFORE HIKE"* vs *"SNIPE DEAL NOW"*).
 
-5. **⚡ Side-by-Side Spec & Price Comparison Drawer**:
+5. **Side-by-Side Spec & Price Comparison Drawer**:
    - Compare up to 3 smartphones simultaneously across chipset, display, camera setup, battery charging speed, and lowest available price in India.
 
 ---
