@@ -19,7 +19,7 @@ SmartPhone-Scouter is a full-stack AI-powered smartphone price tracker, price hi
    - Interactive price curve displaying 6-month historical price movements.
    - Integrated email alert form allowing users to set target price drop notifications in ₹ INR.
 
-4. **🤖 Python FastAPI Machine Learning Trend Engine**:
+4. **Python FastAPI Machine Learning Trend Engine**:
    - Polynomial regression model predicting 30-day, 60-day, and 90-day price trajectories.
    - Calculates a **Price Hike Risk Index (%)** and recommends strategic buying advice (*"BUY NOW BEFORE HIKE"* vs *"SNIPE DEAL NOW"*).
 
