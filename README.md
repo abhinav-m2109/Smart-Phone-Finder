@@ -37,7 +37,7 @@ SmartPhone-Scouter is a full-stack AI-powered smartphone price tracker, price hi
 
 ---
 
-## 🚀 Quick Start Guide
+## Quick Start Guide
 
 ### 1. Run Frontend App locally
 
