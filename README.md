@@ -28,7 +28,7 @@ SmartPhone-Scouter is a full-stack AI-powered smartphone price tracker, price hi
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **Frontend**: React 18, Vite, Lucide Icons, Web Audio API Sound Effects.
 - **Styling**: Vanilla CSS with obsidian dark theme (`#070A0E`), electric cyan accents (`#00F0FF`), and glassmorphism.
