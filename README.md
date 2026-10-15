@@ -15,7 +15,7 @@ SmartPhone-Scouter is a full-stack AI-powered smartphone price tracker, price hi
    - **`🟢 Price Drop`**: Highlights active festive discounts and instant price drops off MSRP.
    - **`⚡ Record Low`**: Identifies all-time lowest price records in India.
 
-3. **📊 6-Month Interactive SVG Price History & Email Alerts**:
+3. **6-Month Interactive SVG Price History & Email Alerts**:
    - Interactive price curve displaying 6-month historical price movements.
    - Integrated email alert form allowing users to set target price drop notifications in ₹ INR.
 
