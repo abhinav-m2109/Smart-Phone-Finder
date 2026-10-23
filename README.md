@@ -2,7 +2,7 @@
 
 SmartPhone-Scouter is a full-stack AI-powered smartphone price tracker, price hike alert engine, and Indian retailer deal comparator built with **React 18 + Vite** and a **Python FastAPI Machine Learning backend**.
 
-![Obsidian Dark UI](https://www.stuff.tv/wp-content/uploads/sites/2/2026/02/Best-smartphones-Q1-2026-lead.jpg?quality=75&w=1080)
+![Obsidian Dark UI] (https://www.stuff.tv/wp-content/uploads/sites/2/2026/02/Best-smartphones-Q1-2026-lead.jpg?quality=75&w=1080)
 
 ## Core Features
 
